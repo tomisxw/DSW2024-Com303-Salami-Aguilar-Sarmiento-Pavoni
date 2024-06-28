@@ -9,7 +9,7 @@
 
 ### Repositorios
 * [backend app](https://github.com/tomisxw/dsw-tp-backend)
-
+* [frontend app](https://github.com/tomisxw/dsw-tp-frontend)
 
 ## Tema
 ### Descripción
